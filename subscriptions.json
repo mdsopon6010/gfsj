@@ -1,0 +1,77 @@
+{
+  "days": [
+    {
+      "id": "d0",
+      "valid": 7,
+      "price": 123,
+      "availablePrice": 99,
+      "type": "day",
+      "headerTitle": "7 Day",
+      "headerClassName": "bg-green-500",
+      "title": "Active 7 Day",
+      "subTitle": "Subscribe for 7 Day"
+    },
+    {
+      "id": "d1",
+      "valid": 20,
+      "price": 343,
+      "type": "day",
+      "headerTitle": "20 Day",
+      "headerClassName": "bg-red-500",
+      "title": "Active 20 Day",
+      "subTitle": "Subscribe for 20 Day"
+    }
+  ],
+  "months": [
+    {
+      "id": "m0",
+      "valid": 30,
+      "price": 545,
+      "availablePrice": 503,
+      "type": "month",
+      "headerTitle": "1 Month",
+      "title": "Per month",
+      "subTitle": "Subscribe for 1 Month"
+    },
+    {
+      "id": "m1",
+      "valid": 90,
+      "price": 644,
+      "type": "month",
+      "headerTitle": "3 Month",
+      "title": "Active 3 month",
+      "subTitle": "Subscribe for 3 Month"
+    },
+    {
+      "id": "m2",
+      "valid": 180,
+      "price": 755,
+      "type": "month",
+      "headerTitle": "6 Month",
+      "title": "Active 6 month",
+      "subTitle": "Subscribe for 6 Month"
+    }
+  ],
+  "years": [
+    {
+      "id": "y0",
+      "valid": 365,
+      "price": 866,
+      "type": "year",
+      "headerTitle": "1 Year",
+      "headerClassName": "bg-red-500",
+      "title": "Per year",
+      "subTitle": "Subscribe for 1 Year"
+    },
+    {
+      "id": "y1",
+      "valid": 730,
+      "price": 977,
+      "type": "year",
+      "headerTitle": "2 Year",
+      "headerClassName": "bg-red-500",
+      "title": "Active 2 Year",
+      "subTitle": "Subscribe for 2 Year"
+    }
+  ]
+}
