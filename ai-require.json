@@ -1,0 +1,24 @@
+{
+  "limitChar": 100,
+  "price": 0.8,
+  "improve": {
+    "price": 0.62,
+    "prompts": [
+      "Enhance image quality, clarity, lighting, colors, and overall visual appeal.",
+      "Improve sharpness, brightness, contrast, and remove any noise or artifacts.",
+      "Boost resolution, refine edges, and enhance texture details smoothly.",
+      "Correct lighting, balance colors, and improve overall photo realism.",
+      "Automatically enhance clarity, saturation, and depth for a cleaner product look."
+    ]
+  },
+  "generate": {
+    "price": 0.75,
+    "prompts": [
+      "White t-shirt product photo on table with soft natural light.",
+      "Black t-shirt on hanger, minimal background, clean studio lighting.",
+      "Folded grey t-shirt flat lay shot with soft shadows.",
+      "Blue t-shirt on mannequin, high-detail lighting, professional product style.",
+      "Lifestyle shot: model wearing white t-shirt, natural daylight, clean background."
+    ]
+  }
+}
